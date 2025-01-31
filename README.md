@@ -42,5 +42,10 @@ Response from server is : Hello Client from server
 ## Requirements
 - Java 8 or later
 
+👤 **Kandarp Joshi**
+
+* Github: [@Kandarp Joshi](https://github.com/KandarpJoshi1112)
+* LinkedIn: [@Kandarp Joshi](https://www.linkedin.com/in/kandarp-joshi-3451231bb/)
+
 Enjoy coding! 🚀
 
